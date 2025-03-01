@@ -19,4 +19,6 @@
 - Kubernetes
 - Terraform
 
-[![Min's GitHub stats](https://github-readme-stats.vercel.app/api?username=min0625&include_all_commits=true&show_icons=true&theme=radical)](https://github.com/min0625)
+[![Min's GitHub stats](https://github-readme-stats.vercel.app/api?username=min0625&theme=radical&include_all_commits=true&show_icons=true)](https://github.com/min0625)
+
+[![Min's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=min0625&theme=radical&layout=compact)](https://github.com/min0625)
