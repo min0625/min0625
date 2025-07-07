@@ -1,10 +1,10 @@
 <h1 align="center">Hi, I'm Min</h1>
 
-<h3 align="center">A software backend engineer from Yilan, Taiwan</h3>
+<h3 align="center">A software backend engineer from Taiwan</h3>
 
 - I am continuously learning `Golang`.
 
-- My Medium blog: [min0625.medium.com](https://min0625.medium.com/)
+- My Medium: [min0625.medium.com](https://min0625.medium.com/)
 
 - About my experiences: [cake.me/min0625](https://www.cake.me/min0625)
 
