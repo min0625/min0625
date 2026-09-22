@@ -13,6 +13,6 @@ Obsessed with `Golang` and shipping code.
 
 Golang • MySQL • Redis • AWS • Docker • Kubernetes • Terraform
 
-[![Min's GitHub stats](./profile/stats.svg)](https://github.com/min0625)
+[![Min's GitHub stats](https://raw.githubusercontent.com/min0625/min0625/output/profile/stats.svg)](https://github.com/min0625)
 
-[![Min's top languages](./profile/top-langs.svg)](https://github.com/min0625)
+[![Min's top languages](https://raw.githubusercontent.com/min0625/min0625/output/profile/top-langs.svg)](https://github.com/min0625)
