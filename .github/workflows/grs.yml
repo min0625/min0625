@@ -33,10 +33,12 @@ jobs:
           path: profile/top-langs.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
-      - name: Commit cards
+      # ponytail: main requires PRs, so cards live on an orphan branch that is force-pushed each run
+      - name: Push cards to output branch
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git switch --orphan output
           git add profile/*.svg
-          git commit -m "Update README cards" || exit 0
-          git push
+          git commit -m "Update README cards"
+          git push --force origin output
